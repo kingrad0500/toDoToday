@@ -7,7 +7,7 @@ const greeting = (firstName, lastName) =>{
 
 //quotes
 
-const actions = ["Go to the beach", "Visit your friends", "Learn something new", "Read a book", "Watch a movie", "Do charity", "Do Yoga", "Finish your favorite serie"];
+const actions = ["Go to the beach", "Visit your friends", "Learn something new", "Read a book", "Watch a movie", "Do charity", "Do Yoga", "Finish your favorite serie", "Grab the keys and drive far away", "Play your favorite song at max volumen"];
 const activities = ["grab some beers", "turn on the grill", "cook some appetizers", "ask a delivery for your favorite dish", "play soccer", "ride in a harley-davidson", "play poker"];
 const finishers = ["buy your favorite shoes.", "get up to the car and grab your crush.", "have fun.", "go to fish in a boat.", "do kyak in the river.", "take photos.", "record all the moments.", "dance with your friends."];
 
